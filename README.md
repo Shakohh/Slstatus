@@ -1,4 +1,4 @@
-#NOTRE-SLSTATUS
+## NOTRE-SLSTATUS
 
 slstatus - suckless status
 ==========================
